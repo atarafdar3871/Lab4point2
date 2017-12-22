@@ -7,6 +7,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
+
  
 public class kanye extends Application {
 	 public static void main(String[] args) {
@@ -23,7 +24,148 @@ public class kanye extends Application {
 	 
 	            @Override
 	            public void handle(ActionEvent event) {
-	                System.out.println(arr[(int)(Math.random() * 7)]);
+	            	int temp = (int)(Math.random() * 7);
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	if (arr[temp].equals("")) {
+	            		temp = (int)(Math.random() * 7);
+	            	}
+	            	
+	                System.out.println(arr[temp]);
+	                arr[temp] = "";
 	            }
 	        });
 	        

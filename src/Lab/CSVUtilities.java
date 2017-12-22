@@ -7,7 +7,7 @@ public class CSVUtilities {
 	private ArrayList<String> CSVData = new ArrayList<String>();
 	private int numColumns;
 	public static void main(String[] args) {
-		CSVParser("C:\\Users\\BT_1N3_18\\eclipse-workspace\\SKRRRRRRRRRRRRRRRRRRRRRRRRRRT\\CSVUtil\\src\\Lab\\yes.csv");
+		CSVParser("C:\\Users\\BT_1N3_18\\git\\Lab4point2\\hie\\src\\Lab\\music.csv");
 	}
 	
 	public static void CSVParser(String csvFile){
